@@ -63,19 +63,6 @@ This project implements a **4-bit array multiplier** using CMOS logic and evalua
   * Optimized design
 * Power and area comparison included
 
----
-
-## 📁 Repository Structure
-
-```
-├── spice_files/        # All simulation files
-├── waveforms/          # Output plots and screenshots
-├── reports/
-│   ├── interim_report.pdf
-│   └── final_report.pdf
-├── schematics/         # Circuit diagrams (if any)
-└── README.md
-```
 
 ---
 
